@@ -1,0 +1,6 @@
+.env
+.env.*
+.circle/
+node_modules/
+contracts/out/
+contracts/cache/

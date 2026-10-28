@@ -1,0 +1,1135 @@
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793106193458}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106193458}
+{"level":"debug","message":"[vite] connected.","timestamp":1793106235172}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106325385}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793106325386}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793106325386}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793106325386}
+{"level":"debug","message":"[vite] hot updated: /src/components/EarningsTab.tsx","timestamp":1793106325387}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793106325387}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106328014}
+{"level":"debug","message":"[vite] hot updated: /src/components/EarningsTab.tsx","timestamp":1793106328014}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793106328014}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793106328014}
+{"level":"debug","message":"[vite] connected.","timestamp":1793106330437}
+{"level":"debug","message":"[vite] connected.","timestamp":1793106336520}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1793106366663}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793106392095}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106392095}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793106392096}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793106392097}
+{"level":"debug","message":"[vite] hot updated: /src/components/EarningsTab.tsx","timestamp":1793106392097}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793106392098}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793106392519}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106392519}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793106392520}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793106392520}
+{"level":"debug","message":"[vite] hot updated: /src/components/EarningsTab.tsx","timestamp":1793106392520}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793106392520}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793106392950}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106392950}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793106392950}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793106392951}
+{"level":"debug","message":"[vite] hot updated: /src/components/EarningsTab.tsx","timestamp":1793106392951}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793106392951}
+{"level":"error","message":"[vite] Failed to reload /src/components/EarningsTab.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1793106410490}
+{"level":"error","message":"[vite] Failed to reload /src/components/EarningsTab.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1793106412285}
+{"level":"debug","message":"[vite] invalidate /src/components/Donut.tsx: Could not Fast Refresh (\"SHARE_COLORS\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793106457589}
+{"level":"debug","message":"[vite] hot updated: /src/components/Donut.tsx","timestamp":1793106457589}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106457590}
+{"level":"debug","message":"[vite] invalidate /src/components/Donut.tsx: Could not Fast Refresh (\"SHARE_COLORS\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793106457640}
+{"level":"debug","message":"[vite] hot updated: /src/components/Donut.tsx","timestamp":1793106457640}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106457640}
+{"level":"debug","message":"[vite] invalidate /src/components/Donut.tsx: Could not Fast Refresh (\"SHARE_COLORS\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793106457704}
+{"level":"debug","message":"[vite] hot updated: /src/components/Donut.tsx","timestamp":1793106457705}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106457705}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793106458385}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106458385}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793106458395}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106458395}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793106458752}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106458752}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793106458935}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106458936}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793106459224}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106459225}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793106459584}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106459584}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793106459802}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106459802}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793106459878}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106459878}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793106460748}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793106460748}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793106460760}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793106460760}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793106460762}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793106461334}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793106461334}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793106461335}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793106461698}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793106461698}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793106461699}
+{"level":"debug","message":"[vite] connected.","timestamp":1793106488699}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1793106496289}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1793106497640}
+{"level":"debug","message":"[vite] connected.","timestamp":1793106499462}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793106783781}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793106783781}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793106784240}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793106784650}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793106784650}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793106785081}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793106793386}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793106793387}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793106793828}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793107084651}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793107084651}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793107084780}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793107084780}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793107085112}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793107085748}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793107093390}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793107093392}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793107093841}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793107384652}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793107384653}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793107385133}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793107385780}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793107385781}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793107386232}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793107393393}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793107393393}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793107393864}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793107815782}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793107815783}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793107816416}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793107817785}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793107817785}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793107818467}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793107820356}
+{"level":"log","message":"An error occurred: {\"isTrusted\":true}","timestamp":1793107820357}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793107964053}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793107969032}
+{"level":"log","message":"An error occurred: {\"isTrusted\":true}","timestamp":1793107969033}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793108018534}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793108018534}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793108018534}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793108018535}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793108018535}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793108018535}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793108018535}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793108018536}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793108018536}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793108020371}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793108020371}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793108020371}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793108020371}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793108020371}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793108020371}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1793108022454}
+{"level":"debug","message":"[vite] connected.","timestamp":1793108031697}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1793108031708}
+{"level":"debug","message":"[vite] connected.","timestamp":1793108039728}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793108323630}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793108323630}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793108324155}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793108623633}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793108623634}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793108624192}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793108864032}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793108867418}
+{"level":"log","message":"An error occurred: {\"isTrusted\":true}","timestamp":1793108867418}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793109169780}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793109169781}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793109170231}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793109223979}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793109227150}
+{"level":"log","message":"An error occurred: {\"isTrusted\":true}","timestamp":1793109227150}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793109843825}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793109977428}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793109977428}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793109983618}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793109985850}
+{"level":"log","message":"An error occurred: {\"isTrusted\":true}","timestamp":1793109985850}
+{"level":"debug","message":"Provider initialization - wallet not connected","timestamp":1793110019320}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793110289767}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793110289768}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793110290368}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793110296781}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793110296782}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793110297299}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793110304057}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793110304058}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793110307876}
+{"level":"log","message":"An error occurred: {\"isTrusted\":true}","timestamp":1793110307876}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793110310777}
+{"level":"log","message":"An error occurred: {\"isTrusted\":true}","timestamp":1793110310778}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793110608770}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793110608773}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793110610497}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793110612767}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793110612768}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793110613263}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793110664094}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793110664102}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793110669421}
+{"level":"log","message":"An error occurred: {\"isTrusted\":true}","timestamp":1793110669421}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793110675686}
+{"level":"log","message":"An error occurred: {\"isTrusted\":true}","timestamp":1793110675686}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793110978773}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=cc2384d0de4c410a9162c9ad1586c49d0ed1f61d26b2ba689478cfb11ea7ed6e&user_info=","timestamp":1793110978774}
+{"level":"log","message":"open {\"isTrusted\":true}","timestamp":1793110979256}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793111023967}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793111027488}
+{"level":"log","message":"An error occurred: {\"isTrusted\":true}","timestamp":1793111027488}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793111597338}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793111597339}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793111609190}
+{"level":"log","message":"An error occurred: {\"isTrusted\":true}","timestamp":1793111609190}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793111613230}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793111613233}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793111618381}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793111618598}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793111618599}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793111618599}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793111618600}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793111618600}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793111618600}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793111618600}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793111618600}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793111618601}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793111618601}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793111618601}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793111618602}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793111619488}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793111619488}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793111619488}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793111619489}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793111619489}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793111619489}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793111619489}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793111619490}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793111619490}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793111628342}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793111628342}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793111628427}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793111628428}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793111629143}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793111629145}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793111629359}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793111629359}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793111918768}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793111918768}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793111922332}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793111922333}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793111952967}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793111952968}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793112096200}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112096201}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793112096201}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793112096202}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793112096202}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793112096203}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793112096204}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793112096204}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793112096205}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793112096205}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793112096206}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793112096206}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793112102643}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112102643}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793112102643}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793112102644}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793112102646}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793112102647}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793112102649}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793112102650}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793112102651}
+{"level":"debug","message":"[vite] connected.","timestamp":1793112106243}
+{"level":"debug","message":"[vite] connected.","timestamp":1793112108866}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793112186175}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112186175}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793112186595}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112186595}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793112187156}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112187156}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793112187604}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112187604}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793112188810}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793112188810}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793112189072}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793112189072}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793112189891}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112189891}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793112189892}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793112190023}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112190024}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793112190024}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793112193151}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112193151}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793112193675}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112193675}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793112212536}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112212536}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793112212536}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793112212536}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793112212536}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793112212537}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793112212537}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793112212537}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793112212537}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793112212537}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793112212537}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793112212772}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112212772}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793112212772}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793112212772}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793112212775}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793112212775}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793112212775}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793112212776}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793112212776}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793112212777}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793112212777}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793112213404}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112213404}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793112213410}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112213411}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793112214306}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112214306}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793112214331}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112214332}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793112214375}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112214376}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793112214386}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112214386}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793112214394}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112214394}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793112214403}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112214404}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793112215248}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112215248}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793112215503}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112215503}
+{"level":"debug","message":"[vite] connected.","timestamp":1793112246602}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793112542638}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793112542639}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793112553533}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793112553533}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793112566824}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793112566825}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793112808263}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112808263}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793112808264}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793112808264}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793112808264}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793112808265}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793112808266}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793112808266}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793112808266}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793112808267}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793112808267}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793112808268}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793112808268}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112809227}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793112809227}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793112809227}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793112809227}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793112809227}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793112809228}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793112809228}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793112809228}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793112809228}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793112809228}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793112809228}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793112809229}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793112809229}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793112809229}
+{"level":"debug","message":"[vite] connected.","timestamp":1793112810292}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793112890092}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112890093}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793112890093}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793112890096}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793112890098}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793112890159}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112890159}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793112890160}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793112890160}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793112890160}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793112891109}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112891109}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793112891118}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112891118}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793112901607}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793112901614}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793112901615}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112901615}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793112901744}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112901744}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793112902033}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793112902035}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793112902035}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112902035}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793112902270}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793112902270}
+{"level":"debug","message":"(previous line repeated 2× more)","timestamp":1793113107777}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793113107777}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793113107810}
+{"level":"debug","message":"(previous line repeated 2× more)","timestamp":1793113111927}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793113111926}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793113111931}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793113127130}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793113127131}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793113408783}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793113408788}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793113412771}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793113412771}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793113427147}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793113427148}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793113561972}
+{"level":"error","message":"[vite] SyntaxError: The requested module '/src/payoutvault.ts' does not provide an export named 'vestedAt'","timestamp":1793113562264,"stack":"SyntaxError: The requested module '/src/payoutvault.ts' does not provide an export named 'vestedAt'"}
+{"level":"error","message":"[vite] Failed to reload /src/components/HomeTab.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1793113562267}
+{"level":"error","message":"[vite] SyntaxError: The requested module '/src/payoutvault.ts' does not provide an export named 'vestedAt'","timestamp":1793113566189,"stack":"SyntaxError: The requested module '/src/payoutvault.ts' does not provide an export named 'vestedAt'"}
+{"level":"error","message":"[vite] Failed to reload /src/components/PayoutList.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1793113566190}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793113566628}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793113566628}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793113566629}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793113566630}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793113566632}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793113566634}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793113566635}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793113566636}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793113566638}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793113566639}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793113566640}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793113566641}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793113566642}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793113566643}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793113566644}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx?t=1793112898223:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793113566644,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx?t=1793112898223:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"error","message":"[vite] SyntaxError: The requested module '/src/payoutvault.ts' does not provide an export named 'vestedAt'","timestamp":1793113567492,"stack":"SyntaxError: The requested module '/src/payoutvault.ts' does not provide an export named 'vestedAt'"}
+{"level":"error","message":"[vite] Failed to reload /src/components/PayoutList.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1793113567494}
+{"level":"error","message":"[vite] SyntaxError: The requested module '/src/payoutvault.ts' does not provide an export named 'vestedAt'","timestamp":1793113567562,"stack":"SyntaxError: The requested module '/src/payoutvault.ts' does not provide an export named 'vestedAt'"}
+{"level":"error","message":"[vite] Failed to reload /src/components/HomeTab.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1793113567562}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793113567570}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793113567571}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793113567571}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793113567571}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793113567572}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793113567572}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793113567573}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793113567573}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793113567574}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793113567576}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793113567576}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793113567577}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793113567577}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793113567577}
+{"level":"debug","message":"[vite] connected.","timestamp":1793113595488}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793113604863}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793113604864}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793113604864}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793113604864}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793113604865}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793113604865}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793113604865}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793113604866}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793113604867}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793113604868}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793113604868}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793113604869}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793113604869}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793113605033}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793113616632}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793113616632}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793113696114}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793113696390}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793113696390}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793113696390}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793113696391}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793113696391}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793113696391}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793113696392}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793113696392}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793113696392}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793113696393}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793113696393}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793113696393}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793113696393}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793113696394}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793113696394}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793113696395,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793113697237}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793113697237}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793113697239}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793113697239}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793113697240}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793113697240}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793113697241}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793113697241}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793113697242}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793113697242}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793113697242}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793113697242}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793113697243}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793113697243}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793113732914}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793113732915}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793113732915}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793113732916}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793113732916}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793113732917}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793113732917}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793113732917}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793113732918}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793113732918}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793113732918}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793113732919}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793113732919}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793113732920}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793113732923}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793113732924}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793113732925,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793113733748}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793113733748}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793113733749}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793113733749}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793113733749}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793113733749}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793113733750}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793113733750}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793113733750}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793113733750}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793113733750}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793113733751}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793113733751}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793113733752}
+{"level":"debug","message":"[vite] connected.","timestamp":1793113738706}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793113772652}
+{"level":"error","message":"[vite] Failed to reload /src/components/AddMoney.tsx. This could be due to syntax errors or importing non-existent modules. (see errors above)","timestamp":1793113813054}
+{"level":"debug","message":"[vite] hot updated: /src/components/AddMoney.tsx","timestamp":1793113813132}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793113813132}
+{"level":"debug","message":"[vite] connected.","timestamp":1793113878534}
+{"level":"debug","message":"[vite] connected.","timestamp":1793113878536}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793114146306}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793114199099}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793114200295}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793114200296}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114200296}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114200297}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114200297}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793114200298}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114200298}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114200299}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114200299}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793114200300}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793114200300}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793114200300}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793114200301}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793114200301}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793114200301}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793114200303,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114201607}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114201607}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114201607}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793114201608}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114201608}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114201609}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114201609}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793114201610}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793114201610}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793114201610}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793114201610}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793114201610}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793114201611}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793114201611}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114209522}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114209526}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114209526}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793114445813}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793114446279}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793114446279}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114446279}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114446279}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114446280}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793114446280}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114446281}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114446282}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114446283}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793114446284}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793114446284}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793114446284}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793114446285}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793114446285}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793114446285}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793114446286,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793114446286}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793114583918}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793114584424}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793114584424}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114584424}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114584427}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114584431}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793114584432}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114584432}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114584433}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114584433}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793114584434}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793114584435}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793114584437}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793114584437}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793114584438}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793114584438}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx?t=1793114449192:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793114584439,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx?t=1793114449192:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114585276}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793114585277}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114585277}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114585277}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114585279}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114585282}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114585283}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793114585283}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793114585284}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793114585285}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793114585285}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793114585285}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793114585286}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793114585286}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793114625897}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114625899}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114625900}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114625900}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793114625902}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793114625902}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793114625903}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793114625903}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793114625904}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114625905}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793114625905}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793114625905}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793114625906}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114625906}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114625906}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793114625907}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793114625908,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793114625908}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793114743616}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114743897}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114743898}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793114743898}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114743899}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114743899}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114743900}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114743900}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793114743900}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793114743901}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793114743901}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793114743901}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793114743901}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793114743901}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793114743902}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793114743902}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793114743905,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:143:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114744692}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114744692}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793114744692}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114744692}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114744693}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114744693}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114744693}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793114744693}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793114744693}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793114744694}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793114744694}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793114744694}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793114744694}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793114744695}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793114816665}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793114817199}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793114817200}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114817203}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114817204}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793114817205}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114817205}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114817205}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114817206}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114817206}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793114817207}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793114817207}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793114817208}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793114817208}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793114817208}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793114817209}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114818343}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114818344}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793114818344}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114818345}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114818345}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114818345}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114818345}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793114818345}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793114818345}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793114818346}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793114818346}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793114818346}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793114818346}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793114818346}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793114857222}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793114857297}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793114857298}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114857298}
+{"level":"debug","message":"(previous line repeated 1× more)","timestamp":1793114872705}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793114872705}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793114872706}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793114872706}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114872707}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114872707}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114872708}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114872709}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793114872709}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114872710}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114872710}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793114872710}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793114872711}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793114872711}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793114872711}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793114872712}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793114872713}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114873637}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114873637}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114873638}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114873638}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793114873639}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114873639}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114873640}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793114873640}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793114873641}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793114873642}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793114873642}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793114873642}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793114873643}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793114873644}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114914487}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114916313}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114916313}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793114917064}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114917065}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114917865}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114917866}
+{"level":"debug","message":"[vite] hot updated: /src/components/AddMoney.tsx","timestamp":1793114917868}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114917868}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793114917870}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114917871}
+{"level":"debug","message":"[vite] invalidate /src/components/Donut.tsx: Could not Fast Refresh (\"SHARE_COLORS\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793114922385}
+{"level":"debug","message":"[vite] hot updated: /src/components/Donut.tsx","timestamp":1793114922385}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114922385}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793114923630}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114923630}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793114924900}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793114924901}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793114924901}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114924901}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793114925032}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114925032}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793114925032}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793114925250}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793115176120}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793115176121}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793115215686}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793115476125}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793115476125}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793115515672}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793115758076}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793115758561}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793115758561}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793115758561}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793115758562}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793115758562}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793115758563}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793115758564}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793115758564}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793115758565}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793115758565}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793115758566}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793115758567}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793115758568}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793115758569}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793115758569}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx?t=1793114920626:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793115758572,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx?t=1793114920626:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793115759500}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793115759500}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793115759501}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793115759501}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793115759501}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793115759501}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793115759501}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793115759501}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793115759501}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793115759501}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793115759501}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793115759502}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793115759502}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793115759502}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793116013883}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793116014491}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793116014492}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793116014493}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793116014493}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793116014494}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793116014494}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793116014494}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793116014495}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793116014495}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793116014495}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793116014496}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793116014496}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793116014496}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793116014496}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793116014497}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793116014497,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793116015382}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793116015383}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793116015383}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793116015383}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793116015383}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793116015384}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793116015384}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793116015384}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793116015384}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793116015384}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793116015384}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793116015384}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793116015385}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793116015385}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793116072063}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793116072064}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793116072064}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793116072065}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793116072066}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793116072067}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793116072068}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793116072068}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793116072069}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793116072069}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793116072075}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793116072076}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793116074981}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793116074981}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793116074981}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793116074981}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793116074981}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793116097410}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793116097412}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793116097412}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793116097412}
+{"level":"debug","message":"[vite] hot updated: /src/components/BuyUsdc.tsx","timestamp":1793116097587}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793116097588}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793116399666}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793116399667}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793116424945}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793116491403}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793116491406}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793116491406}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793116491406}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793116491406}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793116491407}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793116491407}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793116491407}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793116491407}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793116491407}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793116491408}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793116491408}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793116491408}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793116491408}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793116491409}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793116491409}
+{"level":"debug","message":"[vite] hot updated: /src/components/AddMoney.tsx","timestamp":1793116491409}
+{"level":"debug","message":"[vite] hot updated: /src/components/BuyUsdc.tsx","timestamp":1793116491409}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx?t=1793116092175:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793116491410,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx?t=1793116092175:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793116494917}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793116494918}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793116494919}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793116494919}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793116494920}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793116494920}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793116494921}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793116494922}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793116494922}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793116494923}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793116494923}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793116494924}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793116494925}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793116494925}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793116797254}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793116797254}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793116839561}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793116849504}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793116922478}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793117022198}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793117026160}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793117026160}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793117026161}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793117026161}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793117026161}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793117026162}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793117026162}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793117026163}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793117026163}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793117026163}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793117026164}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793117026164}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793117026164}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793117026164}
+{"level":"debug","message":"[vite] hot updated: /src/components/AddMoney.tsx","timestamp":1793117026165}
+{"level":"debug","message":"[vite] hot updated: /src/components/BuyUsdc.tsx","timestamp":1793117026165}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793117026165}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793117026166,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793117027558}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793117027558}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793117027558}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793117027558}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793117027559}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793117027559}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793117027559}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793117027559}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793117027560}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793117027560}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793117027560}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793117027560}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793117027560}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793117027561}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793117077882}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793117078651}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793117078651}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793117078651}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793117078652}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793117078652}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793117078653}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793117078653}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793117078653}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793117078654}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793117078655}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793117078655}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793117078655}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793117078655}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793117078656}
+{"level":"debug","message":"[vite] hot updated: /src/components/AddMoney.tsx","timestamp":1793117078657}
+{"level":"debug","message":"[vite] hot updated: /src/components/BuyUsdc.tsx","timestamp":1793117078658}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793117078658}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793117079491}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793117079492}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793117079493}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793117079493}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793117079493}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793117079494}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793117079495}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793117079495}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793117079495}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793117079496}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793117079496}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793117079497}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793117079497}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793117079498}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793117146599}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793117147084}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793117147084}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793117147085}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793117147085}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793117147085}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793117147086}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793117147086}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793117147086}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793117147087}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793117147087}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793117147087}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793117147087}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793117147090}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793117147090}
+{"level":"debug","message":"[vite] hot updated: /src/components/BuyUsdc.tsx","timestamp":1793117147091}
+{"level":"debug","message":"[vite] hot updated: /src/components/AddMoney.tsx","timestamp":1793117147092}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793117147092}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793117147093,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793117148285}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793117148286}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793117148286}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793117148286}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793117148287}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793117148287}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793117148289}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793117148291}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793117148292}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793117148293}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793117148293}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793117148293}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793117148293}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793117148294}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793117330804}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793117330809}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793117330810}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793117330811}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793117330811}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793117330812}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793117330812}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793117330813}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793117330813}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793117330814}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793117330814}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793117330814}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793117330815}
+{"level":"debug","message":"[vite] hot updated: /src/components/AddMoney.tsx","timestamp":1793117330815}
+{"level":"debug","message":"[vite] hot updated: /src/components/BuyUsdc.tsx","timestamp":1793117330815}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793117330815}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793117330816}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793117330816}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793117330817,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793117331694}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793117331695}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793117331696}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793117331697}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793117331697}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793117331698}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793117331698}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793117331698}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793117331698}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793117331700}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793117331700}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793117331701}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793117331701}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793117331701}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793117555368}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793117555870}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793117555870}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793117555870}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793117555871}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793117555871}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793117555871}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793117555871}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793117555872}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793117555872}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793117555872}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793117555872}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793117555872}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793117555872}
+{"level":"debug","message":"[vite] hot updated: /src/components/AddMoney.tsx","timestamp":1793117555873}
+{"level":"debug","message":"[vite] hot updated: /src/components/BuyUsdc.tsx","timestamp":1793117555873}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793117555873}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793117555873}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793117555874,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793117557021}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793117557021}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793117557022}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793117557023}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793117557024}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793117557024}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793117557024}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793117557024}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793117557025}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793117557025}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793117557025}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793117557025}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793117557026}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793117557026}
+{"level":"log","message":"restart sse, about to listen","timestamp":1793117860203}
+{"level":"log","message":"listen https://wallet.binance.com/tonbridge/bridge/events?client_id=2b8ac32adbfc5a7a649059ba08489f78609d767eb9ecfa24ad96a342112a8565&user_info=","timestamp":1793117860204}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793117867985}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793117868469}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793117868470}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793117868470}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793117868471}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793117868472}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793117868472}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793117868472}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793117868473}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793117868473}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793117868473}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793117868473}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793117868473}
+{"level":"debug","message":"[vite] hot updated: /src/components/AddMoney.tsx","timestamp":1793117868474}
+{"level":"debug","message":"[vite] hot updated: /src/components/BuyUsdc.tsx","timestamp":1793117868474}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793117868474}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793117868475}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793117868476}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793117868477,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793117870057}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793117870058}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793117870058}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793117870058}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793117870059}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793117870060}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793117870061}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793117870061}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793117870062}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793117870062}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793117870063}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793117870064}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793117870066}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793117870066}
+{"level":"log","message":"error {\"isTrusted\":true}","timestamp":1793117888581}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793118009125}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793118254615}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793118255081}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793118255081}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793118255082}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793118255082}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793118255084}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793118255084}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793118255085}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793118255085}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793118255085}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793118255086}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793118255086}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793118255086}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793118255087}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793118255087}
+{"level":"debug","message":"[vite] hot updated: /src/components/AddMoney.tsx","timestamp":1793118255087}
+{"level":"debug","message":"[vite] hot updated: /src/components/BuyUsdc.tsx","timestamp":1793118255088}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793118255088}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793118255089,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793118256020}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793118256021}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793118256021}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793118256022}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793118256022}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793118256022}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793118256022}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793118256023}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793118256023}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793118256023}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793118256023}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793118256024}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793118256024}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793118256024}
+{"level":"error","message":"Warning: You are calling ReactDOMClient.createRoot() on a container that has already been passed to createRoot() before. Instead, call root.render() on the existing root instead if you want to update it.","timestamp":1793122980425}
+{"level":"debug","message":"[vite] invalidate /src/main.tsx: Could not Fast Refresh (\"true\" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports","timestamp":1793122982070}
+{"level":"debug","message":"[vite] hot updated: /src/main.tsx","timestamp":1793122982070}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793122982070}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793122982071}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793122982071}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793122982072}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793122982072}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793122982073}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793122982073}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793122982073}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793122982074}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793122982074}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793122982075}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793122982075}
+{"level":"debug","message":"[vite] hot updated: /src/components/AddMoney.tsx","timestamp":1793122982075}
+{"level":"debug","message":"[vite] hot updated: /src/components/BuyUsdc.tsx","timestamp":1793122982075}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793122982076}
+{"level":"error","message":"[vite] Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)","timestamp":1793122982077,"stack":"Error: send was called before connect\n    at Object.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:414:17)\n    at HMRClient.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:136:20)\n    at HMRContext.send (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:100:20)\n    at HMRContext.invalidate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:65:10)\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/src/main.tsx:159:46\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:34:58\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:213:11\n    at https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:58\n    at Array.forEach (<anonymous>)\n    at HMRClient.queueUpdate (https://iqxx5c4o3bxijsmermmrg.preview.studio.arc.io/@vite/client:186:36)"}
+{"level":"debug","message":"[vite] hot updated: /src/index.css","timestamp":1793122983237}
+{"level":"debug","message":"[vite] hot updated: /src/App.tsx","timestamp":1793122983237}
+{"level":"debug","message":"[vite] hot updated: /src/components/GasNotice.tsx","timestamp":1793122983238}
+{"level":"debug","message":"[vite] hot updated: /src/components/HomeTab.tsx","timestamp":1793122983238}
+{"level":"debug","message":"[vite] hot updated: /src/components/MerchantTab.tsx","timestamp":1793122983238}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutsTab.tsx","timestamp":1793122983238}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayTab.tsx","timestamp":1793122983239}
+{"level":"debug","message":"[vite] hot updated: /src/components/ActivityFeed.tsx","timestamp":1793122983239}
+{"level":"debug","message":"[vite] hot updated: /src/components/TxStatus.tsx","timestamp":1793122983239}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutCreate.tsx","timestamp":1793122983239}
+{"level":"debug","message":"[vite] hot updated: /src/components/SplitEditor.tsx","timestamp":1793122983239}
+{"level":"debug","message":"[vite] hot updated: /src/components/PayoutList.tsx","timestamp":1793122983239}
+{"level":"debug","message":"[vite] hot updated: /src/components/AnimatedAmount.tsx","timestamp":1793122983240}
+{"level":"log","message":"[vite] server connection lost. Polling for restart...","timestamp":1793122983240}
